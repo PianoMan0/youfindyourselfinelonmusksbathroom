@@ -39,4 +39,3 @@ def leave_bathroom():
     print("Do you want to go t")
 
 start_game()
-
